@@ -9,3 +9,6 @@ torchvision==0.23.0
 
 tqdm~=4.67.1
 scipy~=1.16.2
+ipython~=9.6.0
+d2l~=1.0.0a0
+pyarrow==21.0.0
